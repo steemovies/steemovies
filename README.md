@@ -1,3 +1,3 @@
 # steemovies
 
-[![Slack Status](https://slack.yourdomain.com/badge.svg)](https://yourdomain.com)
+[![Slack Status](https://slack.steemovies.com/badge.svg)](https://steemovies.com)
